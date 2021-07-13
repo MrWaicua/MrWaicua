@@ -5,6 +5,4 @@
 - 📫 You can email me on Mrwaicua@gmail.com
 
 <!---
-MrWaicua/MrWaicua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MrWaicua/MrWaicua Is a young Kenyan Journalist withspecial interest in IT and digital workspace is my favourite hangout spot
